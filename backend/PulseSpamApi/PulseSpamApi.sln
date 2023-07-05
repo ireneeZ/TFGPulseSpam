@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PulseSpamApi", "PulseSpamApi\PulseSpamApi.csproj", "{4939FF7C-0A2B-4A0C-BFB9-0B4EF7F3FA44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulseSpamApiTests", "PulseSpamApiTests\PulseSpamApiTests.csproj", "{802A92F0-9331-464C-90B8-F6FE67B188A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4939FF7C-0A2B-4A0C-BFB9-0B4EF7F3FA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4939FF7C-0A2B-4A0C-BFB9-0B4EF7F3FA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4939FF7C-0A2B-4A0C-BFB9-0B4EF7F3FA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4939FF7C-0A2B-4A0C-BFB9-0B4EF7F3FA44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802A92F0-9331-464C-90B8-F6FE67B188A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802A92F0-9331-464C-90B8-F6FE67B188A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802A92F0-9331-464C-90B8-F6FE67B188A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802A92F0-9331-464C-90B8-F6FE67B188A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB6BE06-1313-4EC9-B6CC-DB17B6DC8BF3}
+	EndGlobalSection
+EndGlobal
